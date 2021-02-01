@@ -1,0 +1,26 @@
+table {
+    margin-left: 10%;
+    width: 80%;
+}
+
+.btnAddCard {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 2%;
+    margin-bottom: 10px;
+}
+
+.addCard {
+    margin-left: 15%;
+    margin-top: 10%;
+    width: 70%;
+    background-color: #e9e9ef;
+}
+
+p {
+    margin-left: 10%;
+}
+
+input {
+    width: 50%;
+}
